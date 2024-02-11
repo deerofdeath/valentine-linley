@@ -25,7 +25,7 @@ h2 {
     margin-top: 50px;
 }
 button {
-    position: absolute;
+    position: center;
     width: 150px;
     height: inherit;
     color: white;
