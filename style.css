@@ -8,8 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-    background-color: #fcf0e4;
+    background: #fcf0e4;
 }
 h2 {
     text-align: center;
@@ -43,6 +42,6 @@ button:nth-child(1) {
 }
 button:nth-child(2) {
     margin-right: -200px;
-    background: white;
+    background: #fcf0e4;
     color: #e94d58;
 }
