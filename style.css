@@ -21,6 +21,7 @@ h2 {
     height: 40px;
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: 50px;
 }
 button {
@@ -41,7 +42,6 @@ button:nth-child(1) {
     background: #e94d58;
 }
 button:nth-child(2) {
-    margin-right: -200px;
     background: #fcf0e4;
     color: #e94d58;
 }
