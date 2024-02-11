@@ -49,7 +49,7 @@ button:nth-child(1) {
     background: #e94d58;
 }
 button:nth-child(2) {
-    margin-right: -200px;
+    margin-right: 200px;
     background: #fcf0e4;
     color: #e94d58;
 }
