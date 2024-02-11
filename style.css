@@ -32,7 +32,7 @@ gif {
     margin-top: 50px;
 }
 button {
-    position: center;
+    position: absolute;
     width: 150px;
     height: inherit;
     color: white;
